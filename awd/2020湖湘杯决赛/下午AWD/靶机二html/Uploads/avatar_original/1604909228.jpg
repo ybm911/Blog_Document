@@ -1,0 +1,42 @@
+pwn答疑
+----------------------------------------------------------
+溢出漏洞：
+	stack、heap（动态内存区），text、data（静态内存）
+	可以溢出的位置：stack、data、heap
+	溢出的原因：对于输入没有做好控制
+溢出的目的：
+	1、篡改寄存器的值：rip（下一跳指针）可以改变程序的流程
+		跳到shellcode、后门函数
+	2、覆盖某些值：
+		例如got表中的值（got表改写）
+保护机制：
+	1、stack guard（canary）
+	2、DEP（俗称NX）
+	3、ASLR（stack、heap、libc地址随机）
+	4、PIE（在ASLR之上，增加text、data的地址随机）
+ROP：
+	小片段程序：ret（pop rsp,rip;call rip）
+		包含一些操作指令：pop/mov
+	通过小片段程序改变寄存器的值
+	构造多个小片段组合，编写成一个shellcode（开启shell）
+动态程序（加载libc），所以程序本身所包含的小片段比较少，不足以构造出shellcode
+	但是libc里面包含很多小片段，如果想要利用libc中的小片段（他们的地址都是偏移值），所以需要知道libc的地址，“内存泄露（格式化字符串，溢出）”
+	libc本身就包含shell（one_gadget获取后门地址、尽可能选择rsp条件）
+---对寄存器的了解
+	参数寄存器：rdi、rsi、rdx、rcx、r8、r9、剩余参数摆在栈上
+	栈帧：rsp、rbp
+	控制跳转的寄存器：rip
+---对汇编的了解
+	对栈的操作：pop （出栈）、push（入栈）
+	跳转：call、ret、jump
+---工具
+	1、ida pro
+	2、objdump
+	3、elf
+	gdb调试：
+		1、peda
+		2、pwngdb
+---解题框架：
+	pwntools（python）
+
+

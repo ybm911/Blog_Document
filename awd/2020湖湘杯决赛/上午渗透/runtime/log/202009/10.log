@@ -1,0 +1,3310 @@
+[ 2020-09-10T00:16:18+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index.html
+[ log ] 127.0.0.1/index.php/install/index.html [运行时间：0.003721s][吞吐率：268.75req/s] [内存消耗：371.27kb] [文件加载：45]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\install\controller\Index->index[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/index.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:16:19+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup1.html
+[ log ] 127.0.0.1/index.php/install/index/setup1.html [运行时间：0.007374s][吞吐率：135.61req/s] [内存消耗：379.68kb] [文件加载：45]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup1',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\install\controller\Index->setup1[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup1.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:20:44+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup1.html
+[ log ] 127.0.0.1/index.php/install/index/setup1.html [运行时间：0.081791s][吞吐率：12.23req/s] [内存消耗：338.84kb] [文件加载：43]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup1',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\install\controller\Index->setup1[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup1.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:21:10+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup1.html
+[ log ] 127.0.0.1/index.php/install/index/setup1.html [运行时间：0.049321s][吞吐率：20.28req/s] [内存消耗：338.84kb] [文件加载：43]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup1',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\install\controller\Index->setup1[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup1.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:21:22+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup1.html
+[ log ] 127.0.0.1/index.php/install/index/setup1.html [运行时间：0.008819s][吞吐率：113.39req/s] [内存消耗：327.01kb] [文件加载：43]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup1',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\install\controller\Index->setup1[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup1.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:21:23+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup2.html
+[ log ] 127.0.0.1/index.php/install/index/setup2.html [运行时间：0.023762s][吞吐率：42.08req/s] [内存消耗：383.34kb] [文件加载：45]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup2',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index/setup1.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\install\controller\Index->setup2[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup2.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:21:23+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup2.html
+[ log ] 127.0.0.1/index.php/install/index/setup2.html [运行时间：0.005694s][吞吐率：175.63req/s] [内存消耗：328.33kb] [文件加载：43]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup2',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index/setup2.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\install\controller\Index->setup2[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup2.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:23:38+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup2.html
+[ log ] 127.0.0.1/index.php/install/index/setup2.html [运行时间：0.006085s][吞吐率：164.33req/s] [内存消耗：328.30kb] [文件加载：43]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup2',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index/setup1.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\install\controller\Index->setup2[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup2.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:23:38+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup2.html
+[ log ] 127.0.0.1/index.php/install/index/setup2.html [运行时间：0.002041s][吞吐率：489.93req/s] [内存消耗：326.46kb] [文件加载：43]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup2',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index/setup2.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\install\controller\Index->setup2[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup2.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:23:46+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/ajax_check_mysql.html?db_address=127.0.0.1&db_port=3306&db_user=smity&db_pwd=lzy12315&db_name=lzcms
+[ log ] 127.0.0.1/index.php/install/index/ajax_check_mysql.html?db_address=127.0.0.1&db_port=3306&db_user=smity&db_pwd=lzy12315&db_name=lzcms [运行时间：0.093780s][吞吐率：10.66req/s] [内存消耗：341.91kb] [文件加载：41]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'ajax_check_mysql',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index/setup2.html',
+  'x-requested-with' => 'XMLHttpRequest',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+)
+[ info ] [ PARAM ] array (
+  'db_address' => '127.0.0.1',
+  'db_port' => '3306',
+  'db_user' => 'smity',
+  'db_pwd' => 'lzy12315',
+  'db_name' => 'lzcms',
+)
+[ info ] [ RUN ] app\install\controller\Index->ajax_check_mysql[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8192]mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[/var/www/html/application/install/common.php:36]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:24:08+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup3.html?db_address=127.0.0.1&db_port=3306&db_name=lzcms&db_user=smity&db_pwd=lzy12315&db_pre=lz_&site_name=http%3A%2F%2Flocalhost.com&site_keywords=www&site_description=www&admin_user=admin&admin_pwd=admin123
+[ log ] 127.0.0.1/index.php/install/index/setup3.html?db_address=127.0.0.1&db_port=3306&db_name=lzcms&db_user=smity&db_pwd=lzy12315&db_pre=lz_&site_name=http%3A%2F%2Flocalhost.com&site_keywords=www&site_description=www&admin_user=admin&admin_pwd=admin123 [运行时间：1.034127s][吞吐率：0.97req/s] [内存消耗：405.29kb] [文件加载：49]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index/setup2.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'db_address' => '127.0.0.1',
+  'db_port' => '3306',
+  'db_name' => 'lzcms',
+  'db_user' => 'smity',
+  'db_pwd' => 'lzy12315',
+  'db_pre' => 'lz_',
+  'site_name' => 'http://localhost.com',
+  'site_keywords' => 'www',
+  'site_description' => 'www',
+  'admin_user' => 'admin',
+  'admin_pwd' => 'admin123',
+)
+[ info ] [ RUN ] app\install\controller\Index->setup3[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup3.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8192]mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[/var/www/html/application/install/common.php:221]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [2]fopen(/var/www/html/application/database.php): failed to open stream: Permission denied[/var/www/html/application/install/common.php:371]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:24:42+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup3.html?db_address=127.0.0.1&db_port=3306&db_name=lzcms&db_user=smity&db_pwd=lzy12315&db_pre=lz_&site_name=http%3A%2F%2Flocalhost.com&site_keywords=www&site_description=www&admin_user=admin&admin_pwd=admin123
+[ log ] 127.0.0.1/index.php/install/index/setup3.html?db_address=127.0.0.1&db_port=3306&db_name=lzcms&db_user=smity&db_pwd=lzy12315&db_pre=lz_&site_name=http%3A%2F%2Flocalhost.com&site_keywords=www&site_description=www&admin_user=admin&admin_pwd=admin123 [运行时间：0.095194s][吞吐率：10.50req/s] [内存消耗：360.25kb] [文件加载：47]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index/setup2.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+  'db_address' => '127.0.0.1',
+  'db_port' => '3306',
+  'db_name' => 'lzcms',
+  'db_user' => 'smity',
+  'db_pwd' => 'lzy12315',
+  'db_pre' => 'lz_',
+  'site_name' => 'http://localhost.com',
+  'site_keywords' => 'www',
+  'site_description' => 'www',
+  'admin_user' => 'admin',
+  'admin_pwd' => 'admin123',
+)
+[ info ] [ RUN ] app\install\controller\Index->setup3[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup3.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8192]mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[/var/www/html/application/install/common.php:221]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [2]fopen(/var/www/html/application/database.php): failed to open stream: Permission denied[/var/www/html/application/install/common.php:371]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:24:43+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup3.html?db_address=127.0.0.1&db_port=3306&db_name=lzcms&db_user=smity&db_pwd=lzy12315&db_pre=lz_&site_name=http%3A%2F%2Flocalhost.com&site_keywords=www&site_description=www&admin_user=admin&admin_pwd=admin123
+[ log ] 127.0.0.1/index.php/install/index/setup3.html?db_address=127.0.0.1&db_port=3306&db_name=lzcms&db_user=smity&db_pwd=lzy12315&db_pre=lz_&site_name=http%3A%2F%2Flocalhost.com&site_keywords=www&site_description=www&admin_user=admin&admin_pwd=admin123 [运行时间：0.098064s][吞吐率：10.20req/s] [内存消耗：358.38kb] [文件加载：47]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index/setup2.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+  'db_address' => '127.0.0.1',
+  'db_port' => '3306',
+  'db_name' => 'lzcms',
+  'db_user' => 'smity',
+  'db_pwd' => 'lzy12315',
+  'db_pre' => 'lz_',
+  'site_name' => 'http://localhost.com',
+  'site_keywords' => 'www',
+  'site_description' => 'www',
+  'admin_user' => 'admin',
+  'admin_pwd' => 'admin123',
+)
+[ info ] [ RUN ] app\install\controller\Index->setup3[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup3.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8192]mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[/var/www/html/application/install/common.php:221]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [2]fopen(/var/www/html/application/database.php): failed to open stream: Permission denied[/var/www/html/application/install/common.php:371]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:24:44+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup3.html?db_address=127.0.0.1&db_port=3306&db_name=lzcms&db_user=smity&db_pwd=lzy12315&db_pre=lz_&site_name=http%3A%2F%2Flocalhost.com&site_keywords=www&site_description=www&admin_user=admin&admin_pwd=admin123
+[ log ] 127.0.0.1/index.php/install/index/setup3.html?db_address=127.0.0.1&db_port=3306&db_name=lzcms&db_user=smity&db_pwd=lzy12315&db_pre=lz_&site_name=http%3A%2F%2Flocalhost.com&site_keywords=www&site_description=www&admin_user=admin&admin_pwd=admin123 [运行时间：0.091806s][吞吐率：10.89req/s] [内存消耗：358.62kb] [文件加载：47]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index/setup2.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'db_address' => '127.0.0.1',
+  'db_port' => '3306',
+  'db_name' => 'lzcms',
+  'db_user' => 'smity',
+  'db_pwd' => 'lzy12315',
+  'db_pre' => 'lz_',
+  'site_name' => 'http://localhost.com',
+  'site_keywords' => 'www',
+  'site_description' => 'www',
+  'admin_user' => 'admin',
+  'admin_pwd' => 'admin123',
+)
+[ info ] [ RUN ] app\install\controller\Index->setup3[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup3.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8192]mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[/var/www/html/application/install/common.php:221]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [2]fopen(/var/www/html/application/database.php): failed to open stream: Permission denied[/var/www/html/application/install/common.php:371]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:24:53+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/clear_cache.html
+[ log ] 127.0.0.1/index.php/install/index/clear_cache.html [运行时间：0.028070s][吞吐率：35.63req/s] [内存消耗：475.13kb] [文件加载：50]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'clear_cache',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\install\controller\Index->clear_cache[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2]unlink(/var/www/html/runtime/temp//ca2e2c034aad88dafb9fb5fc0b8ff477.php): Permission denied[/var/www/html/application/common.php:66]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:24:53+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup3.html?db_address=127.0.0.1&db_port=3306&db_name=lzcms&db_user=smity&db_pwd=lzy12315&db_pre=lz_&site_name=http%3A%2F%2Flocalhost.com&site_keywords=www&site_description=www&admin_user=admin&admin_pwd=admin123
+[ log ] 127.0.0.1/index.php/install/index/setup3.html?db_address=127.0.0.1&db_port=3306&db_name=lzcms&db_user=smity&db_pwd=lzy12315&db_pre=lz_&site_name=http%3A%2F%2Flocalhost.com&site_keywords=www&site_description=www&admin_user=admin&admin_pwd=admin123 [运行时间：0.142921s][吞吐率：7.00req/s] [内存消耗：358.55kb] [文件加载：47]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index/setup2.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+  'db_address' => '127.0.0.1',
+  'db_port' => '3306',
+  'db_name' => 'lzcms',
+  'db_user' => 'smity',
+  'db_pwd' => 'lzy12315',
+  'db_pre' => 'lz_',
+  'site_name' => 'http://localhost.com',
+  'site_keywords' => 'www',
+  'site_description' => 'www',
+  'admin_user' => 'admin',
+  'admin_pwd' => 'admin123',
+)
+[ info ] [ RUN ] app\install\controller\Index->setup3[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup3.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8192]mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[/var/www/html/application/install/common.php:221]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [2]file_get_contents(http://127.0.0.1:80/index.php/install/index/clear_cache.html): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+[/var/www/html/application/install/common.php:345]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:27:03+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/clear_cache.html
+[ log ] 127.0.0.1/index.php/install/index/clear_cache.html [运行时间：0.088502s][吞吐率：11.30req/s] [内存消耗：808.69kb] [文件加载：54]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'clear_cache',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\install\controller\Index->clear_cache[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:27:03+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup3.html?db_address=127.0.0.1&db_port=3306&db_name=lzcms&db_user=smity&db_pwd=lzy12315&db_pre=lz_&site_name=http%3A%2F%2Flocalhost.com&site_keywords=www&site_description=www&admin_user=admin&admin_pwd=admin123
+[ log ] 127.0.0.1/index.php/install/index/setup3.html?db_address=127.0.0.1&db_port=3306&db_name=lzcms&db_user=smity&db_pwd=lzy12315&db_pre=lz_&site_name=http%3A%2F%2Flocalhost.com&site_keywords=www&site_description=www&admin_user=admin&admin_pwd=admin123 [运行时间：0.179707s][吞吐率：5.56req/s] [内存消耗：448.39kb] [文件加载：45]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index/setup2.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+  'db_address' => '127.0.0.1',
+  'db_port' => '3306',
+  'db_name' => 'lzcms',
+  'db_user' => 'smity',
+  'db_pwd' => 'lzy12315',
+  'db_pre' => 'lz_',
+  'site_name' => 'http://localhost.com',
+  'site_keywords' => 'www',
+  'site_description' => 'www',
+  'admin_user' => 'admin',
+  'admin_pwd' => 'admin123',
+)
+[ info ] [ RUN ] app\install\controller\Index->setup3[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup3.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8192]mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[/var/www/html/application/install/common.php:221]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义变量: is_test[/var/www/html/application/install/common.php:159]
+[ error ] [8]未定义变量: per[/var/www/html/application/install/common.php:169]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/install/common.php:169]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:27:05+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/install/index/setup4.html?admin_user=admin
+[ log ] 127.0.0.1/index.php/install/index/setup4.html?admin_user=admin [运行时间：0.008036s][吞吐率：124.44req/s] [内存消耗：371.21kb] [文件加载：45]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'install',
+    1 => 'index',
+    2 => 'setup4',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/install/index/setup3.html?db_address=127.0.0.1&db_port=3306&db_name=lzcms&db_user=smity&db_pwd=lzy12315&db_pre=lz_&site_name=http%3A%2F%2Flocalhost.com&site_keywords=www&site_description=www&admin_user=admin&admin_pwd=admin123',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'admin_user' => 'admin',
+)
+[ info ] [ RUN ] app\install\controller\Index->setup4[ /var/www/html/application/install/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/install/view/index/setup4.tpl.php [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:27:12+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/
+[ log ] 127.0.0.1/index.php?s=/ [运行时间：0.053227s][吞吐率：18.79req/s] [内存消耗：952.17kb] [文件加载：58]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ /var/www/html/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ./template/laozhang/index/index.html [ array (
+  0 => 'settings',
+  1 => 'categorys',
+  2 => 'search_model_select',
+  3 => 'seo',
+  4 => 'links',
+  5 => 'recommend_list',
+  6 => 'new_list',
+  7 => 'hot_list',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]未定义数组索引: avatar[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:186]
+[ error ] [8]未定义数组索引: nickname[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:186]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:27:32+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.012656s][吞吐率：79.01req/s] [内存消耗：873.82kb] [文件加载：56]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ /var/www/html/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ./template/laozhang/index/index.html [ array (
+  0 => 'settings',
+  1 => 'categorys',
+  2 => 'search_model_select',
+  3 => 'seo',
+  4 => 'links',
+  5 => 'recommend_list',
+  6 => 'new_list',
+  7 => 'hot_list',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]未定义数组索引: avatar[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:186]
+[ error ] [8]未定义数组索引: nickname[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:186]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:28:26+08:00 ] 192.168.30.138 192.168.30.111 GET /
+[ log ] 192.168.30.138/ [运行时间：0.018084s][吞吐率：55.30req/s] [内存消耗：871.09kb] [文件加载：56]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.30.138',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ /var/www/html/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ./template/laozhang/index/index.html [ array (
+  0 => 'settings',
+  1 => 'categorys',
+  2 => 'search_model_select',
+  3 => 'seo',
+  4 => 'links',
+  5 => 'recommend_list',
+  6 => 'new_list',
+  7 => 'hot_list',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]未定义数组索引: avatar[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:186]
+[ error ] [8]未定义数组索引: nickname[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:186]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:28:48+08:00 ] 192.168.30.138 192.168.30.111 GET /
+[ log ] 192.168.30.138/ [运行时间：0.035663s][吞吐率：28.04req/s] [内存消耗：870.99kb] [文件加载：56]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.30.138',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ /var/www/html/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ./template/laozhang/index/index.html [ array (
+  0 => 'settings',
+  1 => 'categorys',
+  2 => 'search_model_select',
+  3 => 'seo',
+  4 => 'links',
+  5 => 'recommend_list',
+  6 => 'new_list',
+  7 => 'hot_list',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]未定义数组索引: avatar[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:186]
+[ error ] [8]未定义数组索引: nickname[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:186]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:29:03+08:00 ] 192.168.30.138 192.168.30.111 GET /index.php/article/show/id/1.html
+[ log ] 192.168.30.138/index.php/article/show/id/1.html [运行时间：0.007488s][吞吐率：133.55req/s] [内存消耗：233.98kb] [文件加载：33]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'article',
+    1 => 'show',
+    2 => 'id',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.30.138',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=ibodc93o5su5fbivifdpcudkh1',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:29:10+08:00 ] 192.168.30.138 192.168.30.111 GET /
+[ log ] 192.168.30.138/ [运行时间：0.018281s][吞吐率：54.70req/s] [内存消耗：870.91kb] [文件加载：56]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.30.138',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=ibodc93o5su5fbivifdpcudkh1',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ /var/www/html/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ./template/laozhang/index/index.html [ array (
+  0 => 'settings',
+  1 => 'categorys',
+  2 => 'search_model_select',
+  3 => 'seo',
+  4 => 'links',
+  5 => 'recommend_list',
+  6 => 'new_list',
+  7 => 'hot_list',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]未定义数组索引: avatar[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:186]
+[ error ] [8]未定义数组索引: nickname[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:186]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:29:12+08:00 ] 192.168.30.138 192.168.30.111 GET /
+[ log ] 192.168.30.138/ [运行时间：0.025938s][吞吐率：38.55req/s] [内存消耗：871.22kb] [文件加载：56]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.30.138',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'referer' => 'http://192.168.30.138/',
+  'cookie' => 'PHPSESSID=ibodc93o5su5fbivifdpcudkh1',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ /var/www/html/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ./template/laozhang/index/index.html [ array (
+  0 => 'settings',
+  1 => 'categorys',
+  2 => 'search_model_select',
+  3 => 'seo',
+  4 => 'links',
+  5 => 'recommend_list',
+  6 => 'new_list',
+  7 => 'hot_list',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]未定义数组索引: avatar[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:186]
+[ error ] [8]未定义数组索引: nickname[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:186]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:29:12+08:00 ] 192.168.30.138 192.168.30.111 GET /index.php/index/article/index/category_id/1.html
+[ log ] 192.168.30.138/index.php/index/article/index/category_id/1.html [运行时间：0.042179s][吞吐率：23.71req/s] [内存消耗：1,102.65kb] [文件加载：63]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'article',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.30.138',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'referer' => 'http://192.168.30.138/',
+  'cookie' => 'PHPSESSID=ibodc93o5su5fbivifdpcudkh1',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'category_id' => '1',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Article->index[ /var/www/html/application/index/controller/Article.php ]
+[ info ] [ VIEW ] ./template/laozhang/article/index.html [ array (
+  0 => 'settings',
+  1 => 'categorys',
+  2 => 'search_model_select',
+  3 => 'seo',
+  4 => 'lists',
+  5 => 'page',
+  6 => 'recommend_list',
+  7 => 'new_list',
+  8 => 'hot_list',
+  9 => 'breadcrumb',
+  10 => 'second_categorys',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组下标: 8[/var/www/html/application/common/model/Category.php:194]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:194]
+[ error ] [8]未定义变量: category_ids[/var/www/html/application/common/model/Category.php:201]
+[ error ] [8]未定义数组下标: 9[/var/www/html/application/common/model/Category.php:194]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:194]
+[ error ] [8]未定义变量: category_ids[/var/www/html/application/common/model/Category.php:201]
+[ error ] [8]未定义数组下标: 10[/var/www/html/application/common/model/Category.php:194]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:194]
+[ error ] [8]未定义变量: category_ids[/var/www/html/application/common/model/Category.php:201]
+[ error ] [8]未定义数组下标: 11[/var/www/html/application/common/model/Category.php:194]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:194]
+[ error ] [8]未定义变量: category_ids[/var/www/html/application/common/model/Category.php:201]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]未定义数组索引: avatar[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:199]
+[ error ] [8]未定义数组索引: nickname[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:199]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:29:14+08:00 ] 192.168.30.138 192.168.30.111 GET /index.php/index/article/index/category_id/1.html
+[ log ] 192.168.30.138/index.php/index/article/index/category_id/1.html [运行时间：0.022567s][吞吐率：44.31req/s] [内存消耗：1,033.00kb] [文件加载：61]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'article',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.30.138',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'referer' => 'http://192.168.30.138/index.php/index/article/index/category_id/1.html',
+  'cookie' => 'PHPSESSID=ibodc93o5su5fbivifdpcudkh1',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'category_id' => '1',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Article->index[ /var/www/html/application/index/controller/Article.php ]
+[ info ] [ VIEW ] ./template/laozhang/article/index.html [ array (
+  0 => 'settings',
+  1 => 'categorys',
+  2 => 'search_model_select',
+  3 => 'seo',
+  4 => 'lists',
+  5 => 'page',
+  6 => 'recommend_list',
+  7 => 'new_list',
+  8 => 'hot_list',
+  9 => 'breadcrumb',
+  10 => 'second_categorys',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组下标: 8[/var/www/html/application/common/model/Category.php:194]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:194]
+[ error ] [8]未定义变量: category_ids[/var/www/html/application/common/model/Category.php:201]
+[ error ] [8]未定义数组下标: 9[/var/www/html/application/common/model/Category.php:194]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:194]
+[ error ] [8]未定义变量: category_ids[/var/www/html/application/common/model/Category.php:201]
+[ error ] [8]未定义数组下标: 10[/var/www/html/application/common/model/Category.php:194]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:194]
+[ error ] [8]未定义变量: category_ids[/var/www/html/application/common/model/Category.php:201]
+[ error ] [8]未定义数组下标: 11[/var/www/html/application/common/model/Category.php:194]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:194]
+[ error ] [8]未定义变量: category_ids[/var/www/html/application/common/model/Category.php:201]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:97]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:98]
+[ error ] [8]未定义数组索引: avatar[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:199]
+[ error ] [8]未定义数组索引: nickname[/var/www/html/runtime/temp/6a5ec02b1150d5a0b1bf97221087045f.php:199]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:29:26+08:00 ] 192.168.30.138 192.168.30.111 GET /index.php/index/article/show/id/1.html
+[ log ] 192.168.30.138/index.php/index/article/show/id/1.html [运行时间：0.034856s][吞吐率：28.69req/s] [内存消耗：839.79kb] [文件加载：59]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'article',
+    2 => 'show',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.30.138',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=ibodc93o5su5fbivifdpcudkh1',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Article->show[ /var/www/html/application/index/controller/Article.php ]
+[ info ] [ VIEW ] ./template/laozhang/article/show.html [ array (
+  0 => 'settings',
+  1 => 'categorys',
+  2 => 'search_model_select',
+  3 => 'seo',
+  4 => 'data',
+  5 => 'hot_list',
+  6 => 'breadcrumb',
+  7 => 'second_categorys',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组下标: 8[/var/www/html/application/common/model/Category.php:205]
+[ error ] [8]未定义变量: category_id[/var/www/html/application/index/controller/Article.php:58]
+[ error ] [8]未定义数组索引: [/var/www/html/application/common/model/Category.php:242]
+[ error ] [8]未定义数组索引: [/var/www/html/application/common/model/Category.php:243]
+[ error ] [8]未定义数组索引: [/var/www/html/application/common/model/Category.php:251]
+[ error ] [8]未定义数组索引: avatar[/var/www/html/runtime/temp/8dd043a9786d6dd6c21aacccffe80614.php:212]
+[ error ] [8]未定义数组索引: nickname[/var/www/html/runtime/temp/8dd043a9786d6dd6c21aacccffe80614.php:212]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:29:43+08:00 ] 192.168.30.138 192.168.30.111 POST /index.php/index/article/show/id/1.html?http:%2f%2f192.168.30.138%2findex.php%2findex%2farticle%2fshow%2fid%2f1.html
+[ log ] 192.168.30.138/index.php/index/article/show/id/1.html?http:%2f%2f192.168.30.138%2findex.php%2findex%2farticle%2fshow%2fid%2f1.html [运行时间：0.008913s][吞吐率：112.20req/s] [内存消耗：240.30kb] [文件加载：34]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'article',
+    2 => 'show',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.30.138',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '97',
+  'origin' => 'http://192.168.30.138',
+  'connection' => 'keep-alive',
+  'referer' => 'http://192.168.30.138/index.php/index/article/show/id/1.html',
+  'cookie' => 'PHPSESSID=ibodc93o5su5fbivifdpcudkh1; sid=16059894.460057726.1599668967246.1599668970182',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]call_user_func() expects parameter 1 to be a valid callback, function '__construct' not found or invalid function name[/var/www/html/thinkphp/library/think/Request.php:1034]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:33:42+08:00 ] 192.168.30.138 192.168.30.111 GET /
+[ log ] 192.168.30.138/ [运行时间：0.024261s][吞吐率：41.22req/s] [内存消耗：871.66kb] [文件加载：56]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.30.138',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ /var/www/html/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ./template/laozhang/index/index.html [ array (
+  0 => 'settings',
+  1 => 'categorys',
+  2 => 'search_model_select',
+  3 => 'seo',
+  4 => 'links',
+  5 => 'recommend_list',
+  6 => 'new_list',
+  7 => 'hot_list',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:128]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]Use of undefined constant image_url - assumed 'image_url'[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:129]
+[ error ] [8]未定义数组索引: avatar[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:186]
+[ error ] [8]未定义数组索引: nickname[/var/www/html/runtime/temp/a57243de6745bbea637bf0176802426d.php:186]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:24+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=admin
+[ log ] 127.0.0.1/index.php?s=admin [运行时间：0.004643s][吞吐率：215.37req/s] [内存消耗：490.69kb] [文件加载：48]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:24+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/login/login.html
+[ log ] 127.0.0.1/index.php/admin/login/login.html [运行时间：0.008797s][吞吐率：113.68req/s] [内存消耗：559.27kb] [文件加载：53]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Login->login[ /var/www/html/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/public/login.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:24+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/captcha.html
+[ log ] 127.0.0.1/index.php/captcha.html [运行时间：0.003774s][吞吐率：264.98req/s] [内存消耗：251.73kb] [文件加载：32]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'image/webp,*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/login/login.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ /var/www/html/vendor/topthink/think-captcha/src/CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:30+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/admin/login/login.html
+[ log ] 127.0.0.1/index.php/admin/login/login.html [运行时间：0.007803s][吞吐率：128.15req/s] [内存消耗：514.33kb] [文件加载：50]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/login/login.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-length' => '42',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'admin',
+  'password' => 'admin',
+  'captcha' => 'qrw5',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Login->login[ /var/www/html/application/admin/controller/Login.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:33+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/login/login.html
+[ log ] 127.0.0.1/index.php/admin/login/login.html [运行时间：0.001805s][吞吐率：554.07req/s] [内存消耗：513.22kb] [文件加载：51]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Login->login[ /var/www/html/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/public/login.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:33+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/captcha.html
+[ log ] 127.0.0.1/index.php/captcha.html [运行时间：0.001817s][吞吐率：550.36req/s] [内存消耗：247.78kb] [文件加载：32]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'image/webp,*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/login/login.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ /var/www/html/vendor/topthink/think-captcha/src/CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:38+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/admin/login/login.html
+[ log ] 127.0.0.1/index.php/admin/login/login.html [运行时间：0.016856s][吞吐率：59.33req/s] [内存消耗：569.64kb] [文件加载：52]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/login/login.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-length' => '42',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'admin',
+  'password' => 'admin',
+  'captcha' => 'c68y',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Login->login[ /var/www/html/application/admin/controller/Login.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:43+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/login/login.html
+[ log ] 127.0.0.1/index.php/admin/login/login.html [运行时间：0.001794s][吞吐率：557.38req/s] [内存消耗：510.67kb] [文件加载：51]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Login->login[ /var/www/html/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/public/login.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:43+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/captcha.html
+[ log ] 127.0.0.1/index.php/captcha.html [运行时间：0.002169s][吞吐率：461.01req/s] [内存消耗：247.77kb] [文件加载：32]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'image/webp,*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/login/login.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ /var/www/html/vendor/topthink/think-captcha/src/CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:49+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/admin/login/login.html
+[ log ] 127.0.0.1/index.php/admin/login/login.html [运行时间：0.006161s][吞吐率：162.31req/s] [内存消耗：570.83kb] [文件加载：52]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/login/login.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-length' => '45',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'admin',
+  'password' => 'admin123',
+  'captcha' => '72ha',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Login->login[ /var/www/html/application/admin/controller/Login.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:50+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/index/index.html
+[ log ] 127.0.0.1/index.php/admin/index/index.html [运行时间：0.002577s][吞吐率：388.04req/s] [内存消耗：574.72kb] [文件加载：53]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/login/login.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Index->index[ /var/www/html/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/index/index.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:50+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/index/home.html
+[ log ] 127.0.0.1/index.php/admin/index/home.html [运行时间：0.058525s][吞吐率：17.09req/s] [内存消耗：580.92kb] [文件加载：55]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Index->home[ /var/www/html/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/index/home.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8192]mysql_get_server_info(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[/var/www/html/runtime/temp/2a39344155be392cc3a7c9637d6f4f08.php:24]
+[ error ] [2]mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO)[/var/www/html/runtime/temp/2a39344155be392cc3a7c9637d6f4f08.php:24]
+[ error ] [2]mysql_get_server_info(): A link to the server could not be established[/var/www/html/runtime/temp/2a39344155be392cc3a7c9637d6f4f08.php:24]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:52+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/setting/base/tab/1.html
+[ log ] 127.0.0.1/index.php/admin/setting/base/tab/1.html [运行时间：0.014495s][吞吐率：68.99req/s] [内存消耗：782.98kb] [文件加载：61]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'setting',
+    2 => 'base',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'tab' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Setting->base[ /var/www/html/application/admin/controller/Setting.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/html/application/admin/view/setting/base.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+  2 => 'setting',
+  3 => 'model_select',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: is_excel[/var/www/html/runtime/temp/b1f86ad8431351637b61bd25450c6a65.php:37]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:54+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/member/index.html
+[ log ] 127.0.0.1/index.php/admin/member/index.html [运行时间：0.008537s][吞吐率：117.14req/s] [内存消耗：737.58kb] [文件加载：63]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Member->index[ /var/www/html/application/admin/controller/Member.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/member/list.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+  2 => 'members',
+  3 => 'total',
+  4 => 'per_page',
+  5 => 'current_page',
+  6 => 'search',
+  7 => 'order',
+  8 => 'url_params',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: page_size[/var/www/html/application/admin/controller/Member.php:18]
+[ error ] [8]未定义数组索引: search[/var/www/html/application/admin/controller/Member.php:20]
+[ error ] [8]未定义数组索引: order[/var/www/html/application/admin/controller/Member.php:27]
+[ error ] [8]未定义数组索引: query[/var/www/html/application/admin/controller/Member.php:32]
+[ error ] [8]未定义变量: order[/var/www/html/application/admin/controller/Member.php:33]
+[ error ] [8]未定义数组索引: search[/var/www/html/application/admin/controller/Member.php:34]
+[ error ] [8]未定义变量: order[/var/www/html/application/admin/controller/Member.php:34]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:56+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/index/home.html
+[ log ] 127.0.0.1/index.php/admin/index/home.html [运行时间：0.002572s][吞吐率：388.79req/s] [内存消耗：531.67kb] [文件加载：53]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Index->home[ /var/www/html/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/index/home.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8192]mysql_get_server_info(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[/var/www/html/runtime/temp/2a39344155be392cc3a7c9637d6f4f08.php:24]
+[ error ] [2]mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO)[/var/www/html/runtime/temp/2a39344155be392cc3a7c9637d6f4f08.php:24]
+[ error ] [2]mysql_get_server_info(): A link to the server could not be established[/var/www/html/runtime/temp/2a39344155be392cc3a7c9637d6f4f08.php:24]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:57+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/category/index.html
+[ log ] 127.0.0.1/index.php/admin/category/index.html [运行时间：0.005273s][吞吐率：189.65req/s] [内存消耗：714.47kb] [文件加载：57]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Category->index[ /var/www/html/application/admin/controller/Category.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/category/list.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+  2 => 'categorys',
+  3 => 'category_list',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]str_repeat(): Second argument has to be greater than or equal to 0[/var/www/html/application/common/model/Category.php:81]
+[ error ] [8]未定义数组下标: 8[/var/www/html/application/common/model/Category.php:79]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:79]
+[ error ] [8]未定义数组下标: 9[/var/www/html/application/common/model/Category.php:79]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:79]
+[ error ] [8]未定义数组下标: 10[/var/www/html/application/common/model/Category.php:79]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:79]
+[ error ] [8]未定义数组下标: 11[/var/www/html/application/common/model/Category.php:79]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:79]
+[ error ] [2]str_repeat(): Second argument has to be greater than or equal to 0[/var/www/html/application/common/model/Category.php:81]
+[ error ] [8]未定义数组下标: 13[/var/www/html/application/common/model/Category.php:79]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:79]
+[ error ] [8]未定义数组下标: 14[/var/www/html/application/common/model/Category.php:79]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:79]
+[ error ] [2]str_repeat(): Second argument has to be greater than or equal to 0[/var/www/html/application/common/model/Category.php:81]
+[ error ] [8]未定义数组下标: 3[/var/www/html/application/common/model/Category.php:79]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:79]
+[ error ] [2]str_repeat(): Second argument has to be greater than or equal to 0[/var/www/html/application/common/model/Category.php:81]
+[ error ] [8]未定义数组下标: 5[/var/www/html/application/common/model/Category.php:79]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:79]
+[ error ] [8]未定义数组下标: 6[/var/www/html/application/common/model/Category.php:79]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:79]
+[ error ] [8]未定义数组下标: 7[/var/www/html/application/common/model/Category.php:79]
+[ error ] [2]Invalid argument supplied for foreach()[/var/www/html/application/common/model/Category.php:79]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:58+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/member/index.html
+[ log ] 127.0.0.1/index.php/admin/member/index.html [运行时间：0.019233s][吞吐率：51.99req/s] [内存消耗：683.28kb] [文件加载：61]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Member->index[ /var/www/html/application/admin/controller/Member.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/member/list.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+  2 => 'members',
+  3 => 'total',
+  4 => 'per_page',
+  5 => 'current_page',
+  6 => 'search',
+  7 => 'order',
+  8 => 'url_params',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: page_size[/var/www/html/application/admin/controller/Member.php:18]
+[ error ] [8]未定义数组索引: search[/var/www/html/application/admin/controller/Member.php:20]
+[ error ] [8]未定义数组索引: order[/var/www/html/application/admin/controller/Member.php:27]
+[ error ] [8]未定义数组索引: query[/var/www/html/application/admin/controller/Member.php:32]
+[ error ] [8]未定义变量: order[/var/www/html/application/admin/controller/Member.php:33]
+[ error ] [8]未定义数组索引: search[/var/www/html/application/admin/controller/Member.php:34]
+[ error ] [8]未定义变量: order[/var/www/html/application/admin/controller/Member.php:34]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:45:59+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/member/index.html
+[ log ] 127.0.0.1/index.php/admin/member/index.html [运行时间：0.008502s][吞吐率：117.62req/s] [内存消耗：680.88kb] [文件加载：61]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Member->index[ /var/www/html/application/admin/controller/Member.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/member/list.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+  2 => 'members',
+  3 => 'total',
+  4 => 'per_page',
+  5 => 'current_page',
+  6 => 'search',
+  7 => 'order',
+  8 => 'url_params',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: page_size[/var/www/html/application/admin/controller/Member.php:18]
+[ error ] [8]未定义数组索引: search[/var/www/html/application/admin/controller/Member.php:20]
+[ error ] [8]未定义数组索引: order[/var/www/html/application/admin/controller/Member.php:27]
+[ error ] [8]未定义数组索引: query[/var/www/html/application/admin/controller/Member.php:32]
+[ error ] [8]未定义变量: order[/var/www/html/application/admin/controller/Member.php:33]
+[ error ] [8]未定义数组索引: search[/var/www/html/application/admin/controller/Member.php:34]
+[ error ] [8]未定义变量: order[/var/www/html/application/admin/controller/Member.php:34]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:01+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/setting/base/tab/1.html
+[ log ] 127.0.0.1/index.php/admin/setting/base/tab/1.html [运行时间：0.006585s][吞吐率：151.86req/s] [内存消耗：704.05kb] [文件加载：59]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'setting',
+    2 => 'base',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'tab' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Setting->base[ /var/www/html/application/admin/controller/Setting.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/html/application/admin/view/setting/base.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+  2 => 'setting',
+  3 => 'model_select',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: is_excel[/var/www/html/runtime/temp/b1f86ad8431351637b61bd25450c6a65.php:37]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:02+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/member/index.html
+[ log ] 127.0.0.1/index.php/admin/member/index.html [运行时间：0.006482s][吞吐率：154.28req/s] [内存消耗：680.88kb] [文件加载：61]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Member->index[ /var/www/html/application/admin/controller/Member.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/member/list.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+  2 => 'members',
+  3 => 'total',
+  4 => 'per_page',
+  5 => 'current_page',
+  6 => 'search',
+  7 => 'order',
+  8 => 'url_params',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: page_size[/var/www/html/application/admin/controller/Member.php:18]
+[ error ] [8]未定义数组索引: search[/var/www/html/application/admin/controller/Member.php:20]
+[ error ] [8]未定义数组索引: order[/var/www/html/application/admin/controller/Member.php:27]
+[ error ] [8]未定义数组索引: query[/var/www/html/application/admin/controller/Member.php:32]
+[ error ] [8]未定义变量: order[/var/www/html/application/admin/controller/Member.php:33]
+[ error ] [8]未定义数组索引: search[/var/www/html/application/admin/controller/Member.php:34]
+[ error ] [8]未定义变量: order[/var/www/html/application/admin/controller/Member.php:34]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:04+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/setting/base/tab/1.html
+[ log ] 127.0.0.1/index.php/admin/setting/base/tab/1.html [运行时间：0.004373s][吞吐率：228.67req/s] [内存消耗：702.10kb] [文件加载：59]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'setting',
+    2 => 'base',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'tab' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Setting->base[ /var/www/html/application/admin/controller/Setting.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/html/application/admin/view/setting/base.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+  2 => 'setting',
+  3 => 'model_select',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: is_excel[/var/www/html/runtime/temp/b1f86ad8431351637b61bd25450c6a65.php:37]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:05+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/setting/base/tab/3.html
+[ log ] 127.0.0.1/index.php/admin/setting/base/tab/3.html [运行时间：0.006467s][吞吐率：154.63req/s] [内存消耗：702.09kb] [文件加载：59]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'setting',
+    2 => 'base',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'tab' => '3',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Setting->base[ /var/www/html/application/admin/controller/Setting.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/html/application/admin/view/setting/base.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+  2 => 'setting',
+  3 => 'model_select',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: is_excel[/var/www/html/runtime/temp/b1f86ad8431351637b61bd25450c6a65.php:37]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:05+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/setting/base/tab/2.html
+[ log ] 127.0.0.1/index.php/admin/setting/base/tab/2.html [运行时间：0.007380s][吞吐率：135.50req/s] [内存消耗：702.10kb] [文件加载：59]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'setting',
+    2 => 'base',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'tab' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Setting->base[ /var/www/html/application/admin/controller/Setting.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/html/application/admin/view/setting/base.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+  2 => 'setting',
+  3 => 'model_select',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: is_excel[/var/www/html/runtime/temp/b1f86ad8431351637b61bd25450c6a65.php:37]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:08+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/setting/links.html
+[ log ] 127.0.0.1/index.php/admin/setting/links.html [运行时间：0.002644s][吞吐率：378.24req/s] [内存消耗：603.95kb] [文件加载：54]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'setting',
+    2 => 'links',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Setting->links[ /var/www/html/application/admin/controller/Setting.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/setting/links.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+  2 => 'links',
+  3 => 'add_id',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:09+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/index/home.html
+[ log ] 127.0.0.1/index.php/admin/index/home.html [运行时间：0.002119s][吞吐率：471.96req/s] [内存消耗：529.79kb] [文件加载：53]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Index->home[ /var/www/html/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/index/home.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8192]mysql_get_server_info(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[/var/www/html/runtime/temp/2a39344155be392cc3a7c9637d6f4f08.php:24]
+[ error ] [2]mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO)[/var/www/html/runtime/temp/2a39344155be392cc3a7c9637d6f4f08.php:24]
+[ error ] [2]mysql_get_server_info(): A link to the server could not be established[/var/www/html/runtime/temp/2a39344155be392cc3a7c9637d6f4f08.php:24]
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:10+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/admin/edit.html
+[ log ] 127.0.0.1/index.php/admin/admin/edit.html [运行时间：0.003029s][吞吐率：330.13req/s] [内存消耗：566.97kb] [文件加载：54]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'admin',
+    2 => 'edit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/index/index.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Admin->edit[ /var/www/html/application/admin/controller/Admin.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/admin/edit.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:21+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/admin/admin/edit.html
+[ log ] 127.0.0.1/index.php/admin/admin/edit.html [运行时间：0.019560s][吞吐率：51.13req/s] [内存消耗：558.84kb] [文件加载：51]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'admin',
+    2 => 'edit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/admin/edit.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-length' => '75',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+  'username' => 'admin',
+  'password' => 'apache123!@#qweasdzxc',
+  'name' => 's',
+  'avatar' => '',
+  'file' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Admin->edit[ /var/www/html/application/admin/controller/Admin.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:22+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/index/index.html
+[ log ] 127.0.0.1/index.php/admin/index/index.html [运行时间：0.001150s][吞吐率：869.47req/s] [内存消耗：481.69kb] [文件加载：48]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/login/login.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:22+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/login/login.html
+[ log ] 127.0.0.1/index.php/admin/login/login.html [运行时间：0.001451s][吞吐率：689.17req/s] [内存消耗：510.20kb] [文件加载：51]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/login/login.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Login->login[ /var/www/html/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/public/login.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:22+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/captcha.html
+[ log ] 127.0.0.1/index.php/captcha.html [运行时间：0.001695s][吞吐率：589.92req/s] [内存消耗：247.02kb] [文件加载：32]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'image/webp,*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/login/login.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ /var/www/html/vendor/topthink/think-captcha/src/CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:32+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/admin/login/login.html
+[ log ] 127.0.0.1/index.php/admin/login/login.html [运行时间：0.001823s][吞吐率：548.49req/s] [内存消耗：510.14kb] [文件加载：50]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/login/login.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-length' => '45',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'admin',
+  'password' => 'admin123',
+  'captcha' => 'nwle',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Login->login[ /var/www/html/application/admin/controller/Login.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:34+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/admin/login/login.html
+[ log ] 127.0.0.1/index.php/admin/login/login.html [运行时间：0.001313s][吞吐率：761.63req/s] [内存消耗：510.98kb] [文件加载：51]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/login/login.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Login->login[ /var/www/html/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /var/www/html/application/admin/view/public/login.tpl.php [ array (
+  0 => 'settings',
+  1 => 'admin_user',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:34+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/captcha.html
+[ log ] 127.0.0.1/index.php/captcha.html [运行时间：0.001549s][吞吐率：645.58req/s] [内存消耗：247.02kb] [文件加载：32]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => 'image/webp,*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/login/login.html',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ /var/www/html/vendor/topthink/think-captcha/src/CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2020-09-10T00:46:42+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/admin/login/login.html
+[ log ] 127.0.0.1/index.php/admin/login/login.html [运行时间：0.005766s][吞吐率：173.43req/s] [内存消耗：568.93kb] [文件加载：52]
+[ info ] [ LANG ] /var/www/html/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://127.0.0.1/index.php/admin/login/login.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-length' => '45',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=dnu91vni882v9pqo684o97eli5',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'admin',
+  'password' => 'admin123',
+  'captcha' => 'gckn',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ RUN ] app\admin\controller\Login->login[ /var/www/html/application/admin/controller/Login.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
