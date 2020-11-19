@@ -1,2 +1,7 @@
-# PWN-
-放置一些平常遇到的 pwn 题目，供博客分享链接
+# Blog Document
+
+pwn       pwn 题目
+web       web 题目
+awd       awd 源码
+other     其他文件
+document  博客配置相关文件
